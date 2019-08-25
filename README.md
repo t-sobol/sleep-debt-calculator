@@ -1,7 +1,7 @@
 Sleep Debt Calculator
 =====================
 
-A simple app that counts you sleep debt.
+A simple app that counts your sleep debt.
 Written in JavaScript.
 
 Enjoy!
